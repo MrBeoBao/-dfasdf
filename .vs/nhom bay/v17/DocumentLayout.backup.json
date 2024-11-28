@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI LAP\\source\\repos\\nhom bay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8742933B-8F79-4432-A171-CD8E747D5A3A}|nhom_bay.Module\\nhom_bay.Module.csproj|c:\\users\\msi lap\\source\\repos\\nhom bay\\nhom_bay.module\\businessobjects\\ormdatamodel1.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|",
+      "RelativeMoniker": "D:0:0:{8742933B-8F79-4432-A171-CD8E747D5A3A}|nhom_bay.Module\\nhom_bay.Module.csproj|solutionrelative:nhom_bay.module\\businessobjects\\ormdatamodel1.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ORMDataModel1.xpo",
+              "DocumentMoniker": "C:\\Users\\MSI LAP\\source\\repos\\nhom bay\\nhom_bay.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "RelativeDocumentMoniker": "nhom_bay.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "ToolTip": "C:\\Users\\MSI LAP\\source\\repos\\nhom bay\\nhom_bay.Module\\BusinessObjects\\ORMDataModel1.xpo*",
+              "RelativeToolTip": "nhom_bay.Module\\BusinessObjects\\ORMDataModel1.xpo*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPqSURBVDhPfZTfT1tlGMe/72lPC6XYUn5TaliBjSGbTIeETKfbxZgyEjVww/wRXTQxXhjv/AuMiRdGEy\u002B9MLsx8cILNZolGoILmYRtBpQfQ1p\u002BjJYfhbWlpT3nfd/n8aItY27jm3yTk/Oe83mf836f8wgc0JM9l\u002Br63vr0fG1t1ZcsRBWYnUyABiAYICbkcjaif439fv3rKxcBqIPvg5mdpeu2Fy8HO8\u002BNDLbUV3549mTA5zYNhxACvP8wMB/LYzqyA9vWAGCUlvYlhDAAoO3sSLDjzKtDJ546/kbvsepjwYDbbPC7RIPPhUafCzVeE7s5jZVNGxtJCVsqAaDkB2QAEOGeV14Odz0z3NgY6PH7KpxpW4h7eeBenpHMMxJZwsRCFnN3c0ikbEip8SgYikCjorLycqCu\u002BrTD6zWjaSCSBCJJRjTJWE0D6xnG0noezIxKlwG3U\u002BAwoNDEHmKYGoBkQBKgCSAGyp1Ae5WBC10VGDjpxcApP/rafXgc0AHA2Xpm\u002BEpdqCVY7nGDuJAoF3JAmSlQ6cwisnIVyfQP2M38AhY3/c3t8qXjvVWnM2m5kUrY8RLQACCkIkhNkAQoKlUpoEhAEaC0hcTWOJr8CqfaGvH8sx1Vw0OD544crXutrMLZcrBCA4BQJRgXLBlQzJDM0ARo0kgnN9BU04iutk50tB7B0XCLQdoR1Iq9DwGl0pCaoXXh/JQuWGpAUuG\u002B0oyMtYat3CTi2VGs743DklkQ7XfqfaBSBK0JmgGiAnS/4iJUKYKlU7AoBZssSLIgtQI/yIMTAKTSYmEhhsjiBiAIXAwGAggF3NQXJlVmVu/dvn3XM/W37dIkoYn1bkrOM2H7/0AVv/Xj1fjs\u002BKiSWgBc2lUwgCWvydshT1l1ffXr/84vXNvZjkcAsDAcznDbifNQWRNI7wNF8bMdRZf\u002BTwEAvhpX8ImAK\u002BRye0K9L/R/Pjc9\u002BdnizOJ3uaxK14Yqnu7pu/DtcmTm\u002B/ha9CdpcWI7Zs09sjlL6htoeK\u002B3v\u002Bkj0zQ7wQzLlrMT1\u002BJfRWdTt/rfDn5husxuIeDRSsXiS9mff/0m9sHDE\u002BO\u002BBAPNofr21ncHP8Gblz5Gc104zIwQAL/hMLuHLo6UvTP8Pp7r7qslQgcA41AgEbuILTebW0iLKeT1jpuIXExsKqU8bKaMnCOCLMVMpbgcQGF8PU7S1qm1eDwx\u002BudvGLsxhuXV9e3cnkppRfnkTm5tfOKmHP3jBubvLGekpE0Ug3isPD5nIGfny6enl635qUQsvpKd3FzNjWVScsVww78ws27dmd7Z2lzN/7OX1Nc3ovnxQ0M5kH5pYzrgUneI4hzRAPR/4S0TDfewEGkAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-13T17:11:33.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
